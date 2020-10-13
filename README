@@ -1,0 +1,10 @@
+This code uses the nRF SDK 16, which can be downloaded from
+the Nordic Semiconductor site. You will also need a reasonably
+recent version of the GCC cross-compiler for ARM, which can be
+downloaded from developer.arm.com.
+
+Edit the file "local.config" to reflect where these tools are
+installed on your machine. The "nrfjprog" tool must be installed
+in your shell path. Finally, the nRF SDK
+
+
