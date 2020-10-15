@@ -1,4 +1,4 @@
-This code uses the nRF SDK 16 and associated toos, which can be
+This code uses the nRF SDK 16 and associated tools, which can be
 downloaded from the Nordic Semiconductor site. You will also need
 a reasonably recent version of the GCC cross-compiler for ARM,
 which can be downloaded from developer.arm.com.
